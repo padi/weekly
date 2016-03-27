@@ -20,8 +20,11 @@ When you finish a task please tick the checkbox. There will be instructions per 
 After you've completed a task, link to it.
 
 - [ ] Contribute to an open source project
-- [ ] Contribute to another open source project
 - [ ] Write a blog post on anything (what you've learned, etc.) while contributing to an open source project
+
+Stretch goals
+
+- [ ] Contribute to another open source project
 
 At the end of the week, I'll compile a list of all the PRs and blog posts done by the participants of the challenge.
 
