@@ -30,3 +30,4 @@ At the end of the week, I'll compile a list of all the PRs and blog posts done b
 
 ## Participants
 - [@karloxyz](https://github.com/karloxyz)
+- [@nkpgardose](https://github.com/nkpgardose)
