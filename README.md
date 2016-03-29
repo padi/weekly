@@ -13,9 +13,9 @@ Weekly challenges for myself. I encourage all of you to join!
 3. Send a PR.
 
 ## Weekly challenges
-Weekly challenges are in week-<n>.md. When you finish a task please tick the checkbox. There will be instructions per week as well.
+Weekly challenges are in `week-<n>.md`. When you finish a task please tick the checkbox. There will be instructions per week as well.
 
-At the end of the week, I'll compile a list of all the PRs and blog posts done by the participants of the challenge.
+At the end of each week, I'll compile a list of all the PRs and blog posts done by the participants of the challenge.
 
 ## Participants
 - [@karloxyz](https://github.com/karloxyz)
