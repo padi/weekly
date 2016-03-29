@@ -13,18 +13,7 @@ Weekly challenges for myself. I encourage all of you to join!
 3. Send a PR.
 
 ## Weekly challenges
-When you finish a task please tick the checkbox. There will be instructions per week as well.
-
-### OPEN SOURCE WEEK (March 27 - April 3)
-
-After you've completed a task, link to it.
-
-- [ ] Contribute to an open source project
-- [ ] Write a blog post on anything (what you've learned, etc.) while contributing to an open source project
-
-Stretch goals
-
-- [ ] Contribute to another open source project
+Weekly challenges are in week-<n>.md. When you finish a task please tick the checkbox. There will be instructions per week as well.
 
 At the end of the week, I'll compile a list of all the PRs and blog posts done by the participants of the challenge.
 
@@ -32,3 +21,4 @@ At the end of the week, I'll compile a list of all the PRs and blog posts done b
 - [@karloxyz](https://github.com/karloxyz)
 - [@nkpgardose](https://github.com/nkpgardose)
 - [@bradpotts](https://github.com/bradpotts)
+- [@padi](https://github.com/padi)
